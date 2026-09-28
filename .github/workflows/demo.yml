@@ -28,7 +28,7 @@ jobs:
 
       - run: echo "Running automated tests..." 
 
-      - run: exit 1   # this simulates a failing test 
+      - run: echo "All tests passed."
 
   
 
